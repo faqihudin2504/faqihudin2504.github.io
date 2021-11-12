@@ -25,7 +25,7 @@ body{
     height: 20px;
     margin: 0 20px;
     padding-top: 20px;
-    font-size: 25px;
+    font-size: 18px;
     color: #919191;
 }
 #output{
@@ -50,7 +50,7 @@ body{
 
 }
 .number, .empty{
-    background-color: #eaedef;
+    background-color: #b5d1ac;
 }
 .operator{
     background-color:#728cd7;
